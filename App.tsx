@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect, useState } from 'react';
 import { ArrowDown, Linkedin, Dribbble, Instagram, Globe, Settings, Github, Twitter } from 'lucide-react';
 import Header from './components/Header';
